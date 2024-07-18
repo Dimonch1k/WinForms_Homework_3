@@ -1,0 +1,14 @@
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\bin\Debug\Calculator.exe
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.exe
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.pdb
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.Task1.resources
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.Task2.resources
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.Task3.resources
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.Task4.resources
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_3\Calculator\obj\Debug\Calculator.Task5.resources
